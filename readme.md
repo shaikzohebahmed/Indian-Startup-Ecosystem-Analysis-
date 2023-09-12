@@ -22,7 +22,7 @@ To run this project locally and explore the visualizations, follow these simple 
 
 2. Navigate to the project directory.
    ```
-   cd indian-startup-funding-analysis
+   cd Indian-Startup-Ecosystem-Analysis-
    ```
 
 3. Install the required Python packages using pip.
