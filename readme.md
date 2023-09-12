@@ -59,4 +59,4 @@ In the `Investor Analysis` section, you can choose an investor and explore their
 
 ## Project URL
 
-For direct access to the app, visit: [GeoInsight: India District Data Explorer](https://geoinsight--india-district-data-explorer.streamlit.app/)
+For direct access to the app, visit: [Indian Startup Ecosystem Analysis ](https://indian-startup-ecosystem-analysis-by-zoheb.streamlit.app/)
