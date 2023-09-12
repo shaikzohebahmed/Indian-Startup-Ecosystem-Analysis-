@@ -32,7 +32,7 @@ To run this project locally and explore the visualizations, follow these simple 
 
 4. Run the Streamlit app.
    ```
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 5. Open a web browser and go to `http://localhost:8501` to access the app.
