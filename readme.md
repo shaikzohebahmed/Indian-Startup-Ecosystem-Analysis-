@@ -9,7 +9,7 @@ Welcome to the Streamlit Indian Startup Funding Data Visualization project's Git
     - [Overall Analysis](#overall-analysis)
     - [Startup Analysis](#startup-analysis)
     - [Investor Analysis](#investor-analysis)
-- [How to Use](how-to-use)
+- [How to Use](#how-to-use)
 - [Project URL](#project-url)
 
 ## Installation
