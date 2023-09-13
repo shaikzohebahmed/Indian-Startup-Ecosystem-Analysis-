@@ -10,7 +10,7 @@ Welcome to the Streamlit Indian Startup Funding Data Visualization project's Git
     - [Startup Analysis](#startup-analysis)
     - [Investor Analysis](#investor-analysis)
 - [How to Use](#how-to-use)
-- [Project URL](#project-url)
+
 
 ## Installation
 
@@ -67,6 +67,4 @@ In the `Investor Analysis` section, you can choose an investor and explore their
 5. To choose a particular startup or investor for analysis, utilize the dropdown menus provided.
 6. Acquire insights and delve into the interactive visualizations to gain a better understanding of the Indian startup funding landscape.
 
-## Project URL
 
-For direct access to the app, visit: [Indian Startup Ecosystem Analysis ](https://indian-startup-ecosystem-analysis-by-zoheb.streamlit.app/)
